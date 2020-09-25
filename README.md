@@ -6,6 +6,6 @@
 - Rust, Python, C++
 - Orderbook dynamics
 - Market microstructure
-- Extremely low latency 
+- Extremely low latency system
 - Distributed systm 
 - Mission critical system

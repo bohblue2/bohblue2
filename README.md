@@ -11,7 +11,6 @@
 
 ### Research
 - Market microstructure(Orderbook dynamics)
-- Inventory, Information, Strategic Model
 
 <div align=center>
   

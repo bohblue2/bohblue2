@@ -5,7 +5,7 @@
 ### Interest
 - Rust, Python, C++
 - Orderbook dynamics
-- Micro market structure
+- Market microstructure
 - Extremely low latency 
 - Distributed systm 
 - Mission critical system

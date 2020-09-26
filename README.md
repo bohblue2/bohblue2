@@ -6,7 +6,7 @@
 ### Interest
 - Rust, Python, C++
 - Extremely low latency system
-- Distributed systm 
+- Distributed system 
 - Mission critical system
 
 ### Research

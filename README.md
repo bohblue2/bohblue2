@@ -8,7 +8,7 @@
 - Extremely low latency system
 - Distributed system 
 - Mission critical system
-- Devops
+- MLOps
 
 ### Research
 - Market microstructure(Orderbook dynamics)

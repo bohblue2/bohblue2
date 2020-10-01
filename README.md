@@ -8,6 +8,7 @@
 - Extremely low latency system
 - Distributed system 
 - Mission critical system
+- Devops
 
 ### Research
 - Market microstructure(Orderbook dynamics)

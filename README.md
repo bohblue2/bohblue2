@@ -9,6 +9,7 @@
 - Distributed system 
 - Mission critical system
 - MLOps
+- Information Theory
 
 ### Research
 - Market microstructure(Orderbook dynamics)

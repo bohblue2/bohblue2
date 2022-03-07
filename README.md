@@ -1,4 +1,4 @@
-# Developer
+# ML Researcher, Retail Trader, Developer
 - High Frequency Trading System
 - High Performance Parallel Distributed Processing System
 - Computational Simulation
@@ -10,6 +10,8 @@
 - Mission critical system
 - MLOps
 - Unikernel
+- Machine learning
+- Market making (inventory/hedging based)
 
 ### Research
 - Market microstructure(Orderbook dynamics)

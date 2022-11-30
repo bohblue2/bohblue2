@@ -19,7 +19,8 @@
 
 ### Intro
 insta: youngmins.archive
-wandb: https://wandb.ai/ryanbae
+
+wandb: [ryanbae](https://wandb.ai/ryanbae)
 
 <div align=center>
   

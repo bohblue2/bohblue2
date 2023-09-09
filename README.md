@@ -5,7 +5,9 @@
 
 ### Interest
 - Python, Kotlin, Rust
-- Distributed system 
+- Distributed system
+- LLM
+- MLOps
 
 <div align=center>
   

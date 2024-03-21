@@ -4,8 +4,8 @@
 - Computational Simulation
 
 ### Interest
-- Python, Kotlin, Rust
-- Distributed system
+- Python, Rust
+- Reinforcement Learning
 - LLM
 - MLOps
 

@@ -5,8 +5,8 @@
 
 ### Interest
 - Python, Rust
-- Reinforcement Learning
-- LLM
+- Deep Reinforcement Learning
+- Multi-agent, Multi-modal
 - MLOps
 
 <div align=center>

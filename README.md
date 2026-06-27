@@ -1,4 +1,4 @@
-# Building Systems Since 14
+# Yeongmin Bae
 - Statistical Predictive Modeling
 - Stochastic Optimal Control
 - High-Frequency Trading
